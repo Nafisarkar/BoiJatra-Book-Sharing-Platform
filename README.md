@@ -29,7 +29,7 @@
   - [DaisyUI](https://daisyui.com/) 🌼
   - [Lucide Icons](https://lucide.dev/) ✨
 - **Backend & Database**:
-  - [Supabase](https://supabase.io/) (PostgreSQL, Authentication, Storage) <img src="https://supabase.com/favicon.ico" width="16" height="16" alt="Supabase icon" />
+  - [Supabase](https://supabase.io/) (PostgreSQL, Authentication, Storage) <img src="https://img.icons8.com/color/512/supabase.png" width="16" height="16" alt="Supabase icon" />
 - **Linting**:
   - [ESLint](https://eslint.org/) 🧹
 
