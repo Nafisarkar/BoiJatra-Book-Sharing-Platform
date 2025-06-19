@@ -8,7 +8,7 @@ import { ThemeProvider } from "./provider/ThemeProvider";
 import Post from "./pages/Post";
 import { UserProvider } from "./provider/UserProvider";
 import Deshboard from "./pages/Deshboard";
-import AddPost from "./pages/addPost";
+import AddPost from "./pages/Addpost";
 
 const App = () => {
   return (
